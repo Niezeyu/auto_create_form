@@ -1,0 +1,29 @@
+.mainPage {
+  width: 100vw;
+  min-height: 100vh;
+
+  .container {
+    height: 100vh;
+  }
+
+  .leftMain {
+    width: 50%;
+  }
+
+  .centerMain {
+    width: 2000px;
+  }
+
+  .rightMain {
+    width: 50%;
+  }
+}
+
+.el-main {
+  border-right: 1px solid #cccccc;
+  height: 100%;
+  background-color: #E9EEF3;
+  color: #333;
+  text-align: center;
+  line-height: 160px;
+}
